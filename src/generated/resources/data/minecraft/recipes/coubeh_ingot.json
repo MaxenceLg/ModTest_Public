@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "modtest:coubeh_block"
+    }
+  ],
+  "result": {
+    "item": "modtest:coubeh_ingot",
+    "count": 9
+  }
+}

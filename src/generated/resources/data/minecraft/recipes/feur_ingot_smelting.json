@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "modtest:feur_chunk"
+  },
+  "result": "modtest:feur_ingot",
+  "experience": 1.0,
+  "cookingtime": 200
+}

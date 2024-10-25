@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "modtest:coubeh_block",
+    "modtest:coubeh_ore",
+    "modtest:feur_block",
+    "modtest:feur_ore"
+  ]
+}

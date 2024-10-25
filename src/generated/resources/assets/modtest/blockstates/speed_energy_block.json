@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "modtest:block/speed_energy_block"
+    },
+    "facing=south": {
+      "model": "modtest:block/speed_energy_block",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "modtest:block/speed_energy_block",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "modtest:block/speed_energy_block",
+      "y": 90
+    }
+  }
+}

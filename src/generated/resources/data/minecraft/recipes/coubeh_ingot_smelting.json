@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "modtest:coubeh_chunk"
+  },
+  "result": "modtest:coubeh_ingot",
+  "experience": 1.0,
+  "cookingtime": 200
+}

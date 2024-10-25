@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "modtest:coubeh_ore",
+    "modtest:feur_ore",
+    "modtest:feur_ingot",
+    "modtest:coubeh_ingot",
+    "modtest:orescanitem",
+    "modtest:feur_pickaxe",
+    "modtest:coubeh_block",
+    "modtest:feur_block",
+    "modtest:oregenitem",
+    "modtest:coubeh_chunk",
+    "modtest:feur_chunk",
+    "modtest:energizedstaff",
+    "modtest:speed_energy_block",
+    "modtest:powered_ice",
+    "modtest:vital_amplifier_t1",
+    "modtest:vital_amplifier_t2",
+    "modtest:vital_amplifier_t3"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "!!!",
+    " # ",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "!": {
+      "item": "modtest:feur_ingot"
+    }
+  },
+  "result": {
+    "item": "modtest:feur_pickaxe"
+  }
+}

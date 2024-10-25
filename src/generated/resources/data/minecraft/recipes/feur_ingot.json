@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "modtest:feur_block"
+    }
+  ],
+  "result": {
+    "item": "modtest:feur_ingot",
+    "count": 9
+  }
+}

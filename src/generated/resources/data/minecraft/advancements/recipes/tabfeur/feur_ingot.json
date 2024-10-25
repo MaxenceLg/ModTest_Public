@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:feur_ingot"
+    ]
+  },
+  "criteria": {
+    "has_feur_block": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "modtest:feur_block"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:feur_ingot"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_feur_block",
+      "has_the_recipe"
+    ]
+  ]
+}

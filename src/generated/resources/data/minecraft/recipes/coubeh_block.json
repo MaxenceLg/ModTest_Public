@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "modtest:coubeh_ingot"
+    }
+  },
+  "result": {
+    "item": "modtest:coubeh_block"
+  }
+}
